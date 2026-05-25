@@ -1,4 +1,4 @@
-# Reinforcement Learning from Scratch
+# Reinforcement Learning from Scratch ✏️ 
 
 **Implementing David Silver's UCL RL Course — Theory + Code in Parallel**
 
